@@ -1,0 +1,12 @@
+quantity,Net3,Anytown
+alpha_s_per_s,2.057e-05,3.666e-03
+kappa_V,18,35.9
+kappa_e_min_s_per_m2,2.167e-10,1.294e+00
+kappa_e_max_s_per_m2,7.325e+01,6.933e+02
+largest_relative_residual_10pct,0.145,0.109
+top_pipes_gA,169 221 122,6 4 2
+pbh_margin,2.034e-04,7.498e-05
+sigma_c,1.882e-15,1.512e-20
+sigma_max_K_N,2.7,0.997
+top_pipes_gK,329 111 105,2 4 6
+equilibrium_residual_inf,1.168e-13,2.866e-10

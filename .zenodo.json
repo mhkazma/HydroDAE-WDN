@@ -1,0 +1,11 @@
+{
+  "title": "HydroDAE-WDN: Stability and controllability margins of water network hydraulics",
+  "upload_type": "software",
+  "description": "Code for the paper Stability and Controllability Margins of Water Network Hydraulics by Ahmad F. Taha and Mohamad H. Kazma. Differential algebraic equation model of water distribution network hydraulics, comparison with EPANET, stability and controllability margins of the linearized model, and pump allocation.",
+  "creators": [
+    {"name": "Kazma, Mohamad H.", "affiliation": "Vanderbilt University"},
+    {"name": "Taha, Ahmad F.", "affiliation": "Vanderbilt University"}
+  ],
+  "license": "MIT",
+  "version": "1.0"
+}

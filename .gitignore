@@ -1,0 +1,5 @@
+__pycache__/
+.mplconfig/
+src/output/
+*.manifest.txt
+.DS_Store

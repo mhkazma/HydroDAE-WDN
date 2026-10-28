@@ -1,0 +1,7 @@
+network,fixed_1h_head_m,fixed_1h_flow_m3s,smoothed_24h_head_m,smoothed_24h_flow_m3s
+Threenodes,8.483e-03,3.376e-06,2.012e-01,1.300e-05
+Net1,2.254e-01,6.461e-04,4.275e+00,1.779e-02
+Net3,1.597e-01,2.043e-03,1.045e+00,8.033e-02
+Anytown,4.109e-02,2.629e-03,9.401e-02,1.484e-03
+MOD,5.327e-01,6.321e-04,1.570e-02,1.155e-05
+BELL_CL1,8.001e-01,1.673e-02,8.306e-01,7.181e-03
