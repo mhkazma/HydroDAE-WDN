@@ -123,7 +123,7 @@ If you use this code, please cite the paper and the code.
   author    = {Kazma, M. H. and Taha, A. F.},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.23734032}
 }
 ```
 
